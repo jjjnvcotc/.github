@@ -7,10 +7,10 @@
 
 # 已经加入 Github 的成员：
 jnvc583 （陈韵泽）<br>
+Sexitor（许梓浩）<br>
 
 # 尚未加入 GitHub 的成员：
 Passward（李钧辰）<br>
-Sexitor（许梓浩）<br>
 Retaky（周宏宇）<br>
 
 # 图标
